@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "credential_users",
+  "info": {
+    "singularName": "credential-user",
+    "pluralName": "credential-users",
+    "displayName": "credential-user"
+  },
+  "options": {
+    "draftAndPublish": false,
+    "comment": ""
+  },
+  "attributes": {
+    "test": {
+      "type": "string"
+    }
+  }
+}
